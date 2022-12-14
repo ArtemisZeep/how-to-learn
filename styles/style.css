@@ -94,11 +94,11 @@
 }
 
 .two-columns__brief {
-  color: #2f80ed ;
+  color: #2f80ed;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  width: 175px ;
+  width: 175px;
   align-self: flex-start;
 }
 
@@ -110,7 +110,7 @@
 }
 
 
-.two-columns__paragraph{
+.two-columns__paragraph {
   list-style: none;
   line-height: 34px;
   font-size: 24px;
@@ -119,11 +119,11 @@
   margin-top: 30px;
 }
 
-.two-columns__paragraph:first-of-type{
+.two-columns__paragraph:first-of-type {
   margin-top: 0;
 }
 
-.two-columns__span-accent{
+.two-columns__span-accent {
   line-height: 34px;
   font-size: 24px;
   font-weight: 600;
@@ -142,7 +142,7 @@
   line-height: 1.15;
   font-size: 60px;
   font-weight: 600;
-  width: 60% ;
+  width: 60%;
   text-align: center;
 }
 
@@ -151,7 +151,7 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  width: 60% ;
+  width: 60%;
   text-align: center;
 }
 
