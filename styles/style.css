@@ -272,13 +272,14 @@
 }
 
 .section-title_theme_dark {
+  margin-top: 90px;
   color: white;
   margin-bottom: 0;
   z-index: 2;
 }
 
 .section-subtitle_theme_dark {
-  margin: 0;
+  margin-top: 20px;
   padding: 0;
   color: white;
   margin-bottom: 0;
@@ -321,6 +322,7 @@
   width: 877px;
   height: 877px;
   right: -210px;
+  top: 0;
   background-size: cover;
   z-index: 1;
 }
@@ -394,7 +396,7 @@
   font-size: 18px;
   font-weight: normal;
   text-decoration: none;
-  color:#2f80ed;
+  color: white;
 
 }
 
