@@ -1,11 +1,9 @@
 
 .cards {
-  position: relative;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  width: 920px;
-  justify-content: space-between;
-  margin-bottom: 0;
-  padding: 0;
+display: grid;
+grid-template-columns: repeat(3, 240px);
+grid-row-gap: 60px;
+grid-column-gap: 100px;
+justify-content: center;
+width: 960px;
 }

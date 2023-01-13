@@ -1,4 +1,4 @@
-@keyframes rotation-header {
+@keyframes rotation {
   0% {
    transform: rotate(0deg);
   }
@@ -7,3 +7,7 @@
   }
 }
 
+.rotation {
+  transform: rotate(0deg);
+  animation: rotation 20s linear infinite running;
+}
