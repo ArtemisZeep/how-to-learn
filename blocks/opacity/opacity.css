@@ -6,5 +6,5 @@ transition-timing-function: linear;
 
 .opacity:hover {
   opacity: 0.5;
-  transform:rotate(5deg)
+  transform:rotate(5deg);
 }
