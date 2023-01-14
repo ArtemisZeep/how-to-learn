@@ -1,0 +1,10 @@
+.opacity {
+transition-property: transform;
+transition-duration: 0,1s;
+transition-timing-function: linear;
+}
+
+.opacity:hover {
+  opacity: 0.5;
+  transform:rotate(5deg)
+}
